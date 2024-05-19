@@ -1,0 +1,26 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "2",
+        "cols": "5"
+    },
+    "tabs": {
+        "type": "fixed",
+        "hcount": "2",
+        "fillet": "1mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "spacing": "1mm",
+        "offset": "0.2mm"
+    },
+    "framing": {
+        "type": "railstb"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "3mm",
+        "voffset": "3mm"
+    }
+}
